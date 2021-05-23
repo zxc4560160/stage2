@@ -1,0 +1,80 @@
+D:/FPGA_ACC/ICT_dir/Y86/stage2/cpu_top.sv {1 {vlog -work work -vopt -sv -stats=none D:/FPGA_ACC/ICT_dir/Y86/stage2/cpu_top.sv
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module cpu_top
+
+Top level modules:
+	cpu_top
+
+} {} {}} D:/FPGA_ACC/ICT_dir/Y86/stage2/pc_select.sv {1 {vlog -work work -vopt -sv -stats=none D:/FPGA_ACC/ICT_dir/Y86/stage2/pc_select.sv
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module pc_select
+
+Top level modules:
+	pc_select
+
+} {} {}} D:/FPGA_ACC/ICT_dir/Y86/stage2/memory_access.sv {1 {vlog -work work -vopt -sv -stats=none D:/FPGA_ACC/ICT_dir/Y86/stage2/memory_access.sv
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module memory_access
+
+Top level modules:
+	memory_access
+
+} {} {}} D:/FPGA_ACC/ICT_dir/Y86/stage2/fetch.sv {1 {vlog -work work -vopt -sv -stats=none D:/FPGA_ACC/ICT_dir/Y86/stage2/fetch.sv
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module fetch
+
+Top level modules:
+	fetch
+
+} {} {}} D:/FPGA_ACC/ICT_dir/Y86/stage2/Instruction_memory.sv {1 {vlog -work work -vopt -sv -stats=none D:/FPGA_ACC/ICT_dir/Y86/stage2/Instruction_memory.sv
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module Instruction_memory
+
+Top level modules:
+	Instruction_memory
+
+} {} {}} D:/FPGA_ACC/ICT_dir/Y86/stage2/stat.sv {1 {vlog -work work -vopt -sv -stats=none D:/FPGA_ACC/ICT_dir/Y86/stage2/stat.sv
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module stat
+
+Top level modules:
+	stat
+
+} {} {}} D:/FPGA_ACC/ICT_dir/Y86/stage2/memory.sv {1 {vlog -work work -vopt -sv -stats=none D:/FPGA_ACC/ICT_dir/Y86/stage2/memory.sv
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module memory
+
+Top level modules:
+	memory
+
+} {} {}} D:/FPGA_ACC/ICT_dir/Y86/stage2/execute.sv {2 {vlog -work work -vopt -sv -stats=none D:/FPGA_ACC/ICT_dir/Y86/stage2/execute.sv
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module execute
+** Warning: D:/FPGA_ACC/ICT_dir/Y86/stage2/execute.sv(25): (vlog-2182) 'zf' might be read before written in always_comb or always @* block.
+
+** Warning: D:/FPGA_ACC/ICT_dir/Y86/stage2/execute.sv(25): (vlog-2182) 'sf' might be read before written in always_comb or always @* block.
+
+** Warning: D:/FPGA_ACC/ICT_dir/Y86/stage2/execute.sv(25): (vlog-2182) 'of' might be read before written in always_comb or always @* block.
+
+
+Top level modules:
+	execute
+
+} {} {}} D:/FPGA_ACC/ICT_dir/Y86/stage2/define.sv {1 {vlog -work work -vopt -sv -stats=none D:/FPGA_ACC/ICT_dir/Y86/stage2/define.sv
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+
+} {} {}} D:/FPGA_ACC/ICT_dir/Y86/stage2/regfile.sv {1 {vlog -work work -vopt -sv -stats=none D:/FPGA_ACC/ICT_dir/Y86/stage2/regfile.sv
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module regfile
+
+Top level modules:
+	regfile
+
+} {} {}} D:/FPGA_ACC/ICT_dir/Y86/stage2/fetch_tb.sv {1 {vlog -work work -vopt -sv -stats=none D:/FPGA_ACC/ICT_dir/Y86/stage2/fetch_tb.sv
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module fetch_tb
+
+Top level modules:
+	fetch_tb
+
+} {} {}}

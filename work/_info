@@ -1,0 +1,254 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/FPGA_ACC/ICT_dir/Y86
+vcpu_top
+Z0 DXx6 sv_std 3 std 0 22 WmjPaeP=7F5?QFXzJ>D[Q2
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+r1
+!s85 0
+31
+!i10b 1
+!s100 :SdKY>;A3N?D>a_ZDO1h=3
+I04Mm?1]mUDEj8HU>Xn`5:2
+!s105 cpu_top_sv_unit
+S1
+Z2 dD:/FPGA_ACC/ICT_dir/Y86/stage2
+w1621775751
+8D:/FPGA_ACC/ICT_dir/Y86/stage2/cpu_top.sv
+FD:/FPGA_ACC/ICT_dir/Y86/stage2/cpu_top.sv
+L0 2
+Z3 OL;L;10.4;61
+!s108 1621776061.529000
+!s107 define.sv|D:/FPGA_ACC/ICT_dir/Y86/stage2/cpu_top.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|D:/FPGA_ACC/ICT_dir/Y86/stage2/cpu_top.sv|
+!i113 0
+Z4 o-work work -sv -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+vcpu_top_tb
+R0
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 ]3=<`449;j7J<JIKTM7dQ2
+Ic0KNUA5:EmNXRaR=hd0ed3
+!s105 cpu_top_tb_sv_unit
+S1
+R2
+w1621776180
+8D:/FPGA_ACC/ICT_dir/Y86/stage2/cpu_top_tb.sv
+FD:/FPGA_ACC/ICT_dir/Y86/stage2/cpu_top_tb.sv
+L0 3
+R3
+!s108 1621776187.057000
+!s107 define.sv|D:/FPGA_ACC/ICT_dir/Y86/stage2/cpu_top_tb.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|D:/FPGA_ACC/ICT_dir/Y86/stage2/cpu_top_tb.sv|
+!i113 0
+R4
+vexecute
+R0
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 9hiRGFnULA?F030FAz@b`3
+IL1>idGBE:AD^CBSh_?K<l0
+!s105 execute_sv_unit
+S1
+R2
+w1621588513
+8D:/FPGA_ACC/ICT_dir/Y86/stage2/execute.sv
+FD:/FPGA_ACC/ICT_dir/Y86/stage2/execute.sv
+L0 2
+R3
+!s108 1621757181.002000
+!s107 define.sv|D:/FPGA_ACC/ICT_dir/Y86/stage2/execute.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|D:/FPGA_ACC/ICT_dir/Y86/stage2/execute.sv|
+!i113 0
+R4
+vfetch
+R0
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 `K3Nj5CSO9Oz4cI22@]@L1
+I?B7bBe?S_[OQ__i9cSoC]3
+!s105 fetch_sv_unit
+S1
+R2
+w1621763909
+8D:/FPGA_ACC/ICT_dir/Y86/stage2/fetch.sv
+FD:/FPGA_ACC/ICT_dir/Y86/stage2/fetch.sv
+L0 3
+R3
+!s108 1621763913.102000
+!s107 define.sv|D:/FPGA_ACC/ICT_dir/Y86/stage2/fetch.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|D:/FPGA_ACC/ICT_dir/Y86/stage2/fetch.sv|
+!i113 0
+R4
+vfetch_tb
+R0
+!s110 1621757182
+!i10b 1
+!s100 zdVefG8lzd0Ne8NnMHj[I1
+IGaR]P70F19184`Kabd4bE3
+R1
+!s105 fetch_tb_sv_unit
+S1
+R2
+w1621601679
+8D:/FPGA_ACC/ICT_dir/Y86/stage2/fetch_tb.sv
+FD:/FPGA_ACC/ICT_dir/Y86/stage2/fetch_tb.sv
+L0 3
+R3
+r1
+!s85 0
+31
+!s108 1621757182.175000
+!s107 define.sv|D:/FPGA_ACC/ICT_dir/Y86/stage2/fetch_tb.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|D:/FPGA_ACC/ICT_dir/Y86/stage2/fetch_tb.sv|
+!i113 0
+R4
+vInstruction_memory
+R0
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 noo^M?<GP]WmHiQQ0<;?`1
+IIYoB`eFn;ecV01ko`E8TP1
+!s105 Instruction_memory_sv_unit
+S1
+R2
+w1621761506
+8D:/FPGA_ACC/ICT_dir/Y86/stage2/Instruction_memory.sv
+FD:/FPGA_ACC/ICT_dir/Y86/stage2/Instruction_memory.sv
+L0 1
+R3
+!s108 1621763613.449000
+!s107 D:/FPGA_ACC/ICT_dir/Y86/stage2/Instruction_memory.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|D:/FPGA_ACC/ICT_dir/Y86/stage2/Instruction_memory.sv|
+!i113 0
+R4
+n@instruction_memory
+vmemory
+R0
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 ifFOERRm0oLQW=?BIVeFY1
+I:0bThFjK<;`NoVX^nk>F?0
+!s105 memory_sv_unit
+S1
+R2
+w1621763969
+8D:/FPGA_ACC/ICT_dir/Y86/stage2/memory.sv
+FD:/FPGA_ACC/ICT_dir/Y86/stage2/memory.sv
+L0 2
+R3
+!s108 1621763973.796000
+!s107 define.sv|D:/FPGA_ACC/ICT_dir/Y86/stage2/memory.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|D:/FPGA_ACC/ICT_dir/Y86/stage2/memory.sv|
+!i113 0
+R4
+vmemory_access
+R0
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 G]oj64H`anjT;WHFMNT=f3
+IWXGD18AbJ@8T_d8VBi0B>2
+!s105 memory_access_sv_unit
+S1
+R2
+w1621772439
+8D:/FPGA_ACC/ICT_dir/Y86/stage2/memory_access.sv
+FD:/FPGA_ACC/ICT_dir/Y86/stage2/memory_access.sv
+L0 2
+R3
+!s108 1621776060.539000
+!s107 define.sv|D:/FPGA_ACC/ICT_dir/Y86/stage2/memory_access.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|D:/FPGA_ACC/ICT_dir/Y86/stage2/memory_access.sv|
+!i113 0
+R4
+vpc_select
+R0
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 lZc81XBbb=?n:`8SPOV1P0
+I:69imDbazYHdC?8]9hecM1
+!s105 pc_select_sv_unit
+S1
+R2
+w1621772466
+8D:/FPGA_ACC/ICT_dir/Y86/stage2/pc_select.sv
+FD:/FPGA_ACC/ICT_dir/Y86/stage2/pc_select.sv
+L0 4
+R3
+!s108 1621776061.029000
+!s107 define.sv|D:/FPGA_ACC/ICT_dir/Y86/stage2/pc_select.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|D:/FPGA_ACC/ICT_dir/Y86/stage2/pc_select.sv|
+!i113 0
+R4
+vregfile
+R0
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 <J[iLo9@?>bTK2c`YcUo?0
+I3iPbzG?D?oPfER:i76nnN1
+!s105 regfile_sv_unit
+S1
+R2
+w1621772512
+8D:/FPGA_ACC/ICT_dir/Y86/stage2/regfile.sv
+FD:/FPGA_ACC/ICT_dir/Y86/stage2/regfile.sv
+L0 2
+R3
+!s108 1621776060.052000
+!s107 define.sv|D:/FPGA_ACC/ICT_dir/Y86/stage2/regfile.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|D:/FPGA_ACC/ICT_dir/Y86/stage2/regfile.sv|
+!i113 0
+R4
+vstat
+R0
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 FeYgYDZ6?WD2he3R5_OgM3
+I0dbRE;:<VBE`@VnTCadl80
+!s105 stat_sv_unit
+S1
+R2
+w1621764394
+8D:/FPGA_ACC/ICT_dir/Y86/stage2/stat.sv
+FD:/FPGA_ACC/ICT_dir/Y86/stage2/stat.sv
+L0 2
+R3
+!s108 1621764708.874000
+!s107 define.sv|D:/FPGA_ACC/ICT_dir/Y86/stage2/stat.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|D:/FPGA_ACC/ICT_dir/Y86/stage2/stat.sv|
+!i113 0
+R4
